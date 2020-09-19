@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on MOSES AKWA</title>
+    <link>example.com/tags/scene/</link>
+    <description>Recent content in scene on MOSES AKWA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 11:13:32 -0400</lastBuildDate><atom:link href="example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>project 1: Wine Quality Prediction</title>
+      <link>example.com/post/project-4/</link>
+      <pubDate>Mon, 07 Sep 2020 11:13:32 -0400</pubDate>
+      
+      <guid>example.com/post/project-4/</guid>
+      <description>Conclusion The data for this analysis was obtained from the UCI Machine Learning Repository. It was a Team project. After evaluation of the performance of the algorithm and testing with the four different models deployed for the analysis, The following conclusion was made; Random forest classification gave the best and least RMSE value of 0.62. This means that, averagely, an error of + or - 0.62 could be obtained from our prediction.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Titanic Dataset</title>
+      <link>example.com/post/project-3/</link>
+      <pubDate>Sat, 15 Aug 2020 11:14:48 -0400</pubDate>
+      
+      <guid>example.com/post/project-3/</guid>
+      <description>Conclusion The data for this analysis was obtained from the Titanic Dataset Science Solutions on Kaggle Website. The problem at hand was to predict the likelihood of survival. The survey was restricted to just gender and passenger class. From the exploratory data analysis of Titanic dataset, I concluded that Women had higher chances of survival. I also compared fare across different classes and found that it varied a lot for class 1 passengers.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Breast Cancer Analysis and Prediction </title>
+      <link>example.com/post/project-2/</link>
+      <pubDate>Sat, 25 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>example.com/post/project-2/</guid>
+      <description>Conclusion The data for this analysis was gotten from Wisconsin(diagnostic) Breast Cancer dataset. The problem at hand was to discover the possibility of detecting cancer at an early stage, based on features collected from the patient.To also analyse the data and build a model that would detect cancerous cells with good accuracy. Using basic clasification models, i was conclude that the model that does the best on the Testing data is the Random Forest Classifier.</description>
+    </item>
+    
+    <item>
+      <title>Project-4: Loan Prediction</title>
+      <link>example.com/post/project-1/</link>
+      <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>example.com/post/project-1/</guid>
+      <description>Conclusion: From the Exploratory Data Analysis that was carried out, i was able to generate insight about the data. I can conclude that the Loan Status is heavily dependent on Credit History for predictions. The model also shows how each features relates to the target. Also, from the evaluation i conducted, it can be seen that of all the models employed for the analysis, Logistic Regression Algorithm(LRA) performed far better(83%) than others.</description>
+    </item>
+    
+  </channel>
+</rss>
